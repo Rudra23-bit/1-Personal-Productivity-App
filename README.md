@@ -5,7 +5,7 @@ This project demonstrates strong frontend development skills using modern JavaSc
 
 The application integrates expense tracking, task management, password management, and digital journaling into one scalable and user-friendly interface.
 
-Built with React, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, and Vite.
+Built with React, JavaScript, HTML, CSS, Tailwind CSS, and Vite.
 
 ![image alt]()
 
@@ -13,9 +13,9 @@ Built with React, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, and Vite.
 
 1.Frontend Framework: React.js
 
-2.Programming Language: JavaScript (ES6+)
+2.Programming Language: JavaScript 
 
-3.Markup & Styling: HTML5, CSS3, Tailwind CSS
+3.Markup & Styling: HTML, CSS, Tailwind CSS
 
 4.Build Tool & Bundler: Vite
 
