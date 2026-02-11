@@ -7,57 +7,68 @@ The application integrates expense tracking, task management, password managemen
 
 Built with React, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, and Vite.
 
-🛠️ Technical Stack
+![image alt]()
 
-Frontend Framework: React.js
+🛠️ Technical Stack:
 
-Programming Language: JavaScript (ES6+)
+1.Frontend Framework: React.js
 
-Markup & Styling: HTML5, CSS3, Tailwind CSS
+2.Programming Language: JavaScript (ES6+)
 
-Build Tool & Bundler: Vite
+3.Markup & Styling: HTML5, CSS3, Tailwind CSS
 
-Architecture: Component-Based Architecture (SPA)
+4.Build Tool & Bundler: Vite
 
-Core Concepts: State Management, Props, Hooks, Responsive Web Design, Dynamic Rendering
+5.Architecture: Component-Based Architecture (SPA)
 
-✨ Core Features
-💰 Expense Tracker
+6.Core Concepts: State Management, Props, Hooks, Responsive Web Design, Dynamic Rendering
 
-Income and expense tracking functionality
+✨ Core Features:
 
-Real-time balance calculation using state management
+💰 Expense Tracker:
 
-Transaction history with dynamic data rendering
+1.Income and expense tracking functionality.
 
-Financial data organization with structured UI components
+2.-time balance calculation using state management.
 
-📝 Smart To-Do List
+3.Transaction history with dynamic data rendering.
 
-CRUD operations for task management
+4.Financial data organization with structured UI components.
 
-Date and time-based reminders
+![image alt]()
 
-Priority-focused minimal UI/UX design
+📝 Smart To-Do List:
 
-Interactive and dynamic task updates
+1.CRUD operations for task management.
 
-🔐 Password Manager
+2.Date and time-based reminders. 
 
-Centralized credential management interface
+3.Priority-focused minimal UI/UX design.
 
-Secure password generator for strong authentication practices
+4.Interactive and dynamic task updates.
 
-Toggle visibility functionality for enhanced usability
+![image alt]()
 
-Structured form handling and input validation
+🔐 Password Manager:
 
-📓 Digital Diary
+1.Centralized credential management interface.
 
-Daily journaling interface with structured content storage
+2.Secure password generator for strong authentication practices.
 
-Search functionality for retrieving entries by date
+3.Toggle visibility functionality for enhanced usability.
 
-Clean and distraction-free writing environment
+4.Structured form handling and input validation.
 
-Organized component layout for improved user experience
+![image alt]()
+
+📓 Digital Diary:
+
+1.Daily journaling interface with structured content storage.
+
+2.Search functionality for retrieving entries by date.
+
+3.Clean and distraction-free writing environment.
+
+4.Organized component layout for improved user experience.
+
+![image alt]()
