@@ -47,7 +47,7 @@ Built with React, JavaScript, HTML, CSS, Tailwind CSS, and Vite.
 
 4.Interactive and dynamic task updates.
 
-![image alt]()
+![image alt](https://github.com/Rudra23-bit/1-Personal-Productivity-App/blob/main/2.jpeg?raw=true)
 
 🔐 Password Manager:
 
