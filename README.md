@@ -7,7 +7,11 @@ The application integrates expense tracking, task management, password managemen
 
 Built with React, JavaScript, HTML, CSS, Tailwind CSS, and Vite.
 
+
+
 ![image alt](https://github.com/Rudra23-bit/1-Personal-Productivity-App/blob/main/HOME.jpeg?raw=true)
+
+
 
 🛠️ Technical Stack:
 
@@ -35,7 +39,11 @@ Built with React, JavaScript, HTML, CSS, Tailwind CSS, and Vite.
 
 4.Financial data organization with structured UI components.
 
+
+
 ![image alt](https://github.com/Rudra23-bit/1-Personal-Productivity-App/blob/main/1.jpeg?raw=true)
+
+
 
 📝 Smart To-Do List:
 
@@ -47,7 +55,11 @@ Built with React, JavaScript, HTML, CSS, Tailwind CSS, and Vite.
 
 4.Interactive and dynamic task updates.
 
+
+
 ![image alt](https://github.com/Rudra23-bit/1-Personal-Productivity-App/blob/main/2.jpeg?raw=true)
+
+
 
 🔐 Password Manager:
 
@@ -59,7 +71,11 @@ Built with React, JavaScript, HTML, CSS, Tailwind CSS, and Vite.
 
 4.Structured form handling and input validation.
 
+
+
 ![image alt](https://github.com/Rudra23-bit/1-Personal-Productivity-App/blob/main/3.jpeg?raw=true)
+
+
 
 📓 Digital Diary:
 
