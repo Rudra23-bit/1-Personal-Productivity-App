@@ -7,7 +7,7 @@ The application integrates expense tracking, task management, password managemen
 
 Built with React, JavaScript, HTML, CSS, Tailwind CSS, and Vite.
 
-![image alt]()
+![image alt](https://github.com/Rudra23-bit/1-Personal-Productivity-App/blob/main/HOME.jpeg?raw=true)
 
 🛠️ Technical Stack:
 
