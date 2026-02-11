@@ -59,7 +59,7 @@ Built with React, JavaScript, HTML, CSS, Tailwind CSS, and Vite.
 
 4.Structured form handling and input validation.
 
-![image alt]()
+![image alt](https://github.com/Rudra23-bit/1-Personal-Productivity-App/blob/main/3.jpeg?raw=true)
 
 📓 Digital Diary:
 
