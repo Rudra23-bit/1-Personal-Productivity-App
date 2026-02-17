@@ -9,6 +9,10 @@ import Todo from "./pages/Todo";
 import PasswordManager from "./pages/PasswordManager";
 import DigitalDiary from "./pages/DigitalDiary";
 import ProtectedRoute from "./components/ProtectedRoute";
+import {ToastContainer} from   'react-toastify'
+import 'react-toastify/dist/ReactToastify.css';
+
+
 
 const App = () => {
   return (
@@ -29,6 +33,7 @@ const App = () => {
           <Route path="/diary" element={<DigitalDiary />} />
         </Route>
       </Routes>
+      <ToastContainer position="top-right" autoClose={3000} />
     </div>
   );
 };
